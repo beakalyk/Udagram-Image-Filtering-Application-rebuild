@@ -14,5 +14,5 @@ services:
     image: udagram-api-feed:v1a
   frontend:
     build:
-      context: ./udagram-froVntend
+      context: ./udagram-frontend
     image: udagram-frontend:v1a
